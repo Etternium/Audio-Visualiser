@@ -10,6 +10,8 @@ Class Group: Game Design
 
 insert text here
 
+![](Audio%20Visualiser%20vision.png)
+
 # Instructions for use
 
 # How it works
